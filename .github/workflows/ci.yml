@@ -20,6 +20,8 @@ jobs:
       matrix:
         os:
           - macos-15
+          - ubuntu-24.04
+          - windows-2022
         swift:
           - "6.2"
 
